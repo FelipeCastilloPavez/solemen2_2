@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="quienes_somos">Quienes somos</string>
+    <string name="galer_a">Galeria</string>
+    <string name="volver">VOLVER</string>
+    <string name="lista_de_precios">lista de precios</string>
+    <string name="reserva_tu_hora">reserva tu hora</string>
+    <string name="copyright_cavalier_s_barbershop_todos_los_derechos_reservados_2021">Copyright Cavalier\'s Barbershop. Todos los derechos reservados 2021</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="contacto">contacto</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="salir_de_cavalier_s">Salir de Cavalier\'s</string>
+    <string name="ingrese_contrase_a">Ingrese Contraseña</string>
+    <string name="ingrese_usuario">Ingrese Usuario</string>
+</resources>
